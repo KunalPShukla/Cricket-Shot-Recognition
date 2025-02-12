@@ -1,8 +1,9 @@
-# Cricket-Shot-Recognition
-This project uses deep learning to classify cricket shots from images. It leverages the EfficientNetV2 model for feature extraction and fine-tuning. The dataset consists of labeled cricket shot images, and the model is trained using TensorFlow and Keras.
+# Cricket Shot Classification
 
-Features
-Uses EfficientNetV2 for transfer learning
-Data preprocessing with augmentation techniques
-Model training with categorical cross-entropy loss
-Performance evaluation using accuracy and loss metrics
+This project classifies cricket shots from images using deep learning. It utilizes EfficientNetV2 for feature extraction and fine-tuning. The dataset contains labeled images of different cricket shots, and the model is trained using TensorFlow and Keras.
+
+## Features
+- EfficientNetV2-based transfer learning
+- Image preprocessing with augmentation
+- Model training with categorical cross-entropy loss
+- Performance evaluation using accuracy and loss metrics
